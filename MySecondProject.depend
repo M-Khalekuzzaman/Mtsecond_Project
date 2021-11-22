@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1629891647 source:e:\c++ code\oop c++\mysecondproject\mysceondclass.cpp
+	"mysceondclass.h"
+	<iostream>
+
+1629891625 e:\c++ code\oop c++\mysecondproject\mysceondclass.h
+	"mysceondclass.h"
+
